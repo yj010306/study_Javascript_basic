@@ -1,7 +1,7 @@
 # Javascript_Basic
 
 1. [Hello World](helloworld.md)
-2. [변수와 상수]()
+2. [변수와 상수](변수와상수.md)
 3. [자료형과 형 변화]()
 4. [연산자]()
 5. [조건문]()
