@@ -1,6 +1,6 @@
 # Javascript_Basic
 
-1. [Hello World]()
+1. [Hello World](helloworld.md)
 2. [변수와 상수]()
 3. [자료형과 형 변화]()
 4. [연산자]()
